@@ -19,10 +19,10 @@ The data will be dynamically updated and visualized in Power BI to present live 
  2. Download the driver that matches your system architecture:
    - **32-bit** or **64-bit**, depending on your Power BI installation.
 
-**Step 3: Open Power BI**
+**Step 3: Open Power BI**:
  1. Launch Power BI Desktop.
 
-**Step 4: Connect to MySQL**
+**Step 4: Connect to MySQL**:
  1.Enter the Server Details
  2.Refresh Data:
    - Power BI service can be configured to automatically refresh the data periodically to fetch the latest updates from your MySQL database.
